@@ -1,2 +1,6 @@
 # SMP
-Simple media player build with Html, Css and Javascript
+
+A Web Audio Media-player for making interactive music in the browser.
+
+
+https://howdy-admoll.github.io/SMP/ 
