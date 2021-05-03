@@ -126,3 +126,5 @@ volumeUp.addEventListener('click', function() {
     document.querySelector('.volume-up i').className = "fa fa-volume-up";
   }
 });
+
+// repeat and menu will be done later
